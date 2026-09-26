@@ -1,0 +1,21 @@
+Booking ID: 1001
+Customer Name: Om Sawant
+Room Number: 102
+Check In: 29-09-2026
+Check Out: 30-09-2026
+----------------------------------------
+
+Booking ID: 1002
+Customer Name: Om Sawant
+Room Number: 104
+Check In: 01-10-2026
+Check Out: 02-10-2026
+----------------------------------------
+
+Booking ID: 1003
+Customer Name: Karan sir
+Room Number: 103
+Check In: 22-09-2026
+Check Out: 26-09-2026
+----------------------------------------
+
